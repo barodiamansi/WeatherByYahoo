@@ -21,6 +21,5 @@
             android:contentDescription="@string/no_data_img_desc"
             android:adjustViewBounds="true"
             />
-            <!--android:src="@drawable/moon_and_stars"-->
     </LinearLayout>
 </FrameLayout>
