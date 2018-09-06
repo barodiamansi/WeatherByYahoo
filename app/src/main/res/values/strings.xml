@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherByYahoo</string>
+    <string name="location_hint">Enter postal code or City, State</string>
+    <string name="loading_weather">Loading weather details</string>
+    <string name="content_description">Weather in your city details by Yahoo</string>
+
+    <!--Error strings-->
+    <string name="no_data">No weather data</string>
+    <string name="no_data_img_desc">weather icon</string>
+    <string name="failed_to_load">Failed to load weather</string>
+
+    <!--Weather Strings-->
+    <string name="degree_weather_format">%s \u2109</string>
+
+    <!--Used to join the day of the week with the date-->
+    <string name="yahoo_date_format">%1$s, %2$s</string>
+</resources>
